@@ -1,0 +1,22 @@
+# core
+node_modules
+.env
+
+# MacOS
+.DS_Store
+
+# editor directories
+.vscode
+.idea
+
+# ignored files
+tests/*.js
+logs/*.log
+
+# data directory
+data
+
+# cypress test
+cypress.env.json
+cypress/screenshots
+cypress/videos
